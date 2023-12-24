@@ -1,0 +1,13 @@
+{
+    "credentiels":
+    {
+        "email":"ahmedbenali@yopmail.com",
+        "password":"ahmedbenali123"
+    },
+    "xpaths":{
+        "email_field":"//div[@class='_6lux']//input[@class='inputtext _55r1 _6luy']",
+        "password_field":"//div[@class='_6luy _55r1 _1kbt']//input[@class='inputtext _55r1 _6luy _9npi']",
+        "login_btn":"//div[@class='_6ltg'][1]//button[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy']"
+    }
+
+}
